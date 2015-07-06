@@ -1,6 +1,6 @@
 # aggr
 
-An aggregation pipe.
+An aggregation pipe. (Using Python 2.7.10)
 
     $ cat data.txt
     Eggs,12
